@@ -1,2 +1,2 @@
 # Nabeel-s-Portfolio
-Analystics Portfolio
+Analytics Portfolio
