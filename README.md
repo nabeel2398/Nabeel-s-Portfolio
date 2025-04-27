@@ -1,4 +1,4 @@
-# Nabeel-s-Portfolio
+# Portfolio
 Analytics Portfolio
 
 NABEEL KHAN (Analytical Professional)
