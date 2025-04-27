@@ -38,7 +38,7 @@ Bachelors in Computer Science, Dr. A.P.J. Abdul Kalam Technical University, UP, 
 ### Customer Journey Enhancement (Nordia)
 •	Executed needs-based sales strategy through communication and presentation, leading to higher conversion rates.
 
-## KILLS SETS (SOFTWARE)
+## SKILL SETS (SOFTWARE)
  
 • Programming & Data Processing: Python, SQL, Power BI, Tableau, Microsoft Office Suite (Excel, Word, PowerPoint)
 • Data Analysis & Visualization: Google Analytics, Excel Pivot Tables, Power BI Dashboards, Tableau Reports
