@@ -27,7 +27,7 @@
 📅 *April 2023 – August 2023*  
 - Utilized SAP ERP, SQL, and Power BI for forecasting and replenishment tracking, improving service levels by 30%.  
 - Enhanced workflows and scheduling across departments, achieving 95% on-time material delivery.  
-- Built scenario planning dashboards to assess supply disruptions, increasing operational efficiency by 20%.  
+- Built scenario planning dashboards to assess supply disruptions, increasing operational efficiency by 21%.  
 
 ### **Customer Fulfillment Associate**  
 **Walmart Canada** — *Scarborough*  
