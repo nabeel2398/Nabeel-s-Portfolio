@@ -1,64 +1,72 @@
-# Portfolio
-Analytics Portfolio
+# Nabeel Khan  
+**Business Analyst – Requirements Gathering, Data Analysis, Stakeholder Collaboration**  
+📧 nabeel.ca2398@gmail.com | 📞 +1 (647)-507-7731 | 📍 Toronto | [LinkedIn](#)  
 
-## NABEEL KHAN (Analytical Professional)
-LINKEDIN | nabeel.ca2398@gmail.com | +1(647)-507-7731 |Toronto, ON
+---
 
-## EDUCATION
+## 🛠️ Skills
 
-Post Graduate Diploma in Project Management, Georgian College, Canada	Sep 2022 – April 2023
-Post Graduate Diploma in Business Analytics, Seneca College, Canada	Sep 2021 – April 2022
-Bachelors in Computer Science, Dr. A.P.J. Abdul Kalam Technical University, UP, India	Aug 2016- May 2020	
+- **Analytics**: SQL, Power BI, Tableau, Excel, Python, DAX, Snowflake, Google Analytics, VBA, SAS  
+- **Project Management**: Azure DevOps, Jira, Confluence, MS Project, MS Planner, Visio, Scrum, Agile  
+- **CRM Tools**: Salesforce, MS Dynamics, Office 365, SharePoint, Google Workspace, SAP  
+- **Data Automation**: Power Query, Macros, Python scripting, SQL, Excel advanced functions, ETL  
 
-## WORK EXPERIENCE
-### Sales Analyst, Nordia (Bell Canada), North York, Canada	Sep 2023 - Present
-•	Delivered product recommendations through probing and tailored presentations, boosting upsell rates by 15%.
-•	Conducted needs-based assessments to address customer pain points and improve satisfaction across Bell services.
-•	Demonstrated excellent communication and objection-handling skills, contributing to team performance recognition.
+---
 
-### Inventory Analyst (Summer Student), Toronto Transit Commission, Toronto, Canada	April 2023 - Aug 2023
-•	Managed inventory for over 3000+ line items using Excel and SAP, reducing variances by 20%.
-•	Reconciled stock records and supported month-end reporting to optimize procurement forecasting.
-•	Collaborated with cross-functional teams to document and streamline current-state inventory workflows.
+## 💼 Work Experience
 
-### Customer Fulfillment Associate Walmart Canada, Scarborough, Canada	Jan 2022 – Dec 2022
-•	Delivered prompt and accurate order fulfillment by coordinating with departments and customers.
-•	Engaged in face-to-face customer interactions, using probing and product demos to ensure satisfaction.
-•	Utilized strong communication and time management to meet same-day delivery targets.
+### **Technical Sales Expert**  
+**Nordia (Bell Canada)** — *Remote – Canada*  
+📅 *September 2023 – Present*  
+- Built automated dashboards and forecasting tools in Tableau and Excel using DAX, SQL, and segmentation models to support demand planning, reducing churn by 18%.  
+- Collaborated cross-functionally using Salesforce and A/B testing to improve product delivery strategies and reduce decision latency by 12%.  
+- Conducted cohort and trend analysis to improve conversion planning, boosting campaign execution efficiency by 23%.  
 
-### Software Developer – Virtusa, Pune, India	Sep 2020 – Aug 2021
-•	Delivered prompt and accurate order fulfillment by coordinating with departments and customers.
-•	Engaged in face-to-face customer interactions, using probing and product demos to ensure satisfaction.
-•	Utilized strong communication and time management to meet same-day delivery targets.
+### **Inventory Analyst (Summer Student)**  
+**Toronto Transit Commission** — *Toronto*  
+📅 *April 2023 – August 2023*  
+- Utilized SAP ERP, SQL, and Power BI for forecasting and replenishment tracking, improving service levels by 30%.  
+- Enhanced workflows and scheduling across departments, achieving 95% on-time material delivery.  
+- Built scenario planning dashboards to assess supply disruptions, increasing operational efficiency by 20%.  
 
-## PROJECTS
-### CAO/DSD Stabilization Support (TTC)
-•	Mapped and documented current inventory processes using Excel and SAP to identify optimization areas.
+### **Customer Fulfillment Associate**  
+**Walmart Canada** — *Scarborough*  
+📅 *January 2022 – December 2022*  
+- Applied Excel VBA, ERP, and SQL to support inventory and fulfillment analytics, reducing report turnaround by 35%.  
+- Automated stock monitoring using RPA and Lean Six Sigma, reducing order cycle time by 20%.  
+- Used forecasting tools with logistics teams to improve demand accuracy by 18%.  
 
-### Customer Journey Enhancement (Nordia)
-•	Executed needs-based sales strategy through communication and presentation, leading to higher conversion rates.
+### **Associate Engineer – Technology**  
+**Virtusa Inc.** — *India*  
+📅 *September 2020 – September 2021*  
+- Developed Java-based web apps for US hospitality clients, automating guest check-in/out and reducing workload by 40%.  
+- Built dashboards with Angular and Bootstrap for real-time booking data visualization.  
+- Designed scalable systems for guest flow and logistics across multiple hotel locations.  
 
-## SKILL SETS (SOFTWARE)
- 
-• Programming & Data Processing: Python, SQL, Power BI, Tableau, Microsoft Office Suite (Excel, Word, PowerPoint)
-• Data Analysis & Visualization: Google Analytics, Excel Pivot Tables, Power BI Dashboards, Tableau Reports
-• Database & Data Management: Oracle Database, SQL Server, PostgreSQL, Shared Data Warehouse, ETL Pipelines
-• Statistical & Business Analysis: Statistical Modeling, Forecasting, KPI Tracking, Trend Analysis, Retail Link, Open to Buy
-• Process & Performance Optimization: Process Improvement Initiatives, Standard Operating Procedures (SOPs), Inventory Reconciliation
-• CRM & Business Tools: Salesforce, HubSpot, LinkedIn Navigator, Zoho CRM, Google Workspace (Docs, Sheets, Meet), Microsoft Office Suite
-• Collaboration & Reporting: Slack, Zoom, Microsoft Teams, Sales Reporting, KPI Dashboards 
+---
 
-## SKILLS SETS (PROFICIENCY)
-Inventory Optimization & Demand Planning| Vendor Management & Procurement| Data Analysis & Reporting| E-commerce & Brick-and-Mortar Operations| Cross-Functional Collaboration | Project Management | Decision-Making & Strategic Planning | Process Improvement & Workflow Optimization | Attention to Detail & Accuracy | Time Management | Customer Service | Retail | Sales
+## 📊 Project Experience
 
-## CERTIFICATIONS
-Microsoft Excel Expert (Office 365 / 2019) – Microsoft|  Data Analytics for Finance – LinkedIn Learning
+### **Sales Funnel Optimization using Power BI & SQL**  
+*Data Analyst, Toronto*  
+📅 *January 2023 – April 2023*  
+- Developed dynamic dashboards and forecasting models to enhance campaign targeting by 28%.  
+- Used DAX, Python, and A/B testing to deliver insights, resulting in a 20% upsell success increase.  
 
-## ACHIEVEMENTS
-•	Runner-up at Smart India Hackathon – Designed and implemented a real-time data analytics dashboard using Python and React
-•	Led data-driven fundraising insights for Aashman Foundation, analyzing donor trends and optimizing outreach strategies, leading to a 10% increase in contributions.
+---
 
+## 🎓 Education
 
+- **Ontario College Graduate Certificate in Project Management**  
+  *Georgian College, Toronto* — *Sep 2022 – Apr 2023*  
+- **Ontario College Graduate Certificate in Business Analytics**  
+  *Seneca College, Toronto* — *Sep 2021 – Apr 2022*  
+- **Bachelor of Technology in Computer Science**  
+  *Dr. A.P.J. Abdul Kalam Technical University, India* — *Aug 2016 – Sep 2020*  
 
+---
 
+## 📜 Certifications
 
+- Google Data Analytics Professional Certificate  
+- TCPS 2: CORE-2022 – Government of Canada  
